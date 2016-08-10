@@ -19,7 +19,6 @@ Specific functions for getting text from news articles web pages.
 More general functions that could be reused in future modules.
 
 ##Being worked on
-* Animation
 * Look into switching web parsing library to something else for effeciency reasons
 * Add more modules in addition to newsarticle.py
 
